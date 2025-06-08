@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Luis-Paulo1993 😁
+## Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/Luis-Paulo1993">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue nas redes abaixo!
+### Pra saber mais sobre mim me segue nas redes abaixo!
  
 <div> 
   
